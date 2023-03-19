@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+	body
+	{
+	font-family: serif;
+	}
+	form
+	{
+	margin : 0 auto;
+	width: 25%;
+	background: #f4f7f8;
+	margin: 10px;
+	padding: 20px 40px;
+	border-radius: 10px; 
+	}
+	H2
+	{
+	text-align: center;
+	}
+	Label
+	{
+	display: block;
+	margin: 5px;
+	font-style: italic;
+	}
+	
+	button
+	{
+	width: 50%;
+	padding : 5px 40px;
+	background-color: #4bc970;
+	color: #fff;
+	font-size: 15px;
+	border-radius: 10px;
+	margin: 5px;
+	}
+	button :hover
+	{
+	background-color: pink;
+	}
+	
